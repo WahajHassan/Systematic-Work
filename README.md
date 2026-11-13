@@ -18,6 +18,9 @@ MySQL 8.4 · server actions, no REST layer between the app and its own data.
 
 ## What it looks like
 
+Demo data throughout, and the contact details in it are pixelated out — the
+blanked rows are a redaction, not an empty field.
+
 ### The business dashboard
 
 Every customer a business can ask, what has been sent, and who replied.
